@@ -18,6 +18,7 @@ public class TAGit {
         // TODO code application logic here
         // This is comment
         System.out.println("Hello");
+        System.out.println("Hello");
     }
     
 }
